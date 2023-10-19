@@ -1,3 +1,3 @@
 # SQL-code
 This is where I will store SQL code that I have used for projects etc...
-Also, for some of these projects I will have done Tableau dahboard or visualizations. To access these as well as other visualizations click [here] (https://public.tableau.com/app/profile/chris.williamson4774/vizzes). 
+Also, for some of these projects I will have done Tableau dahboard or visualizations. To access these as well as other visualizations click [here](https://public.tableau.com/app/profile/chris.williamson4774/vizzes). 
